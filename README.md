@@ -17,12 +17,10 @@ A Restaurant-Website web application using HTML,CSS and Javascript.
    daytona create https://github.com/Priyadav17/Restaurant-website-daytona.git 
    ```  
 
-... MORE STEPS IF NEEDED ...
+
 
 4. **Start the Application**:  
-   ```bash  
-   command to start the app
-   ```  
+   
 
 ---
 ## Tech Stack Used
