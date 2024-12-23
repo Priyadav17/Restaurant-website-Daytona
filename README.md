@@ -14,7 +14,7 @@ A Restaurant-Website web application using HTML,CSS and Javascript.
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
    ```bash  
-   daytona create <https://github.com/Priyadav17/Restaurant-website-daytona.git> 
+   daytona create https://github.com/Priyadav17/Restaurant-website-daytona.git 
    ```  
 
 ... MORE STEPS IF NEEDED ...
